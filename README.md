@@ -20,6 +20,7 @@ To-do list is prepared to record your daily tasks.
 * Docker
 * JUnit and Mockito
 * React for frontend side
+* Authentication 
 
 ### Requirements
 * Java should be used as the development language and Spring Boot should be used as the framework. ✔️
@@ -31,7 +32,7 @@ To-do list is prepared to record your daily tasks.
 or a similar cloud environment or presented as a Docker image via DockerHub.
 Docker hub image was created and deployed to docker hub. ✔️ <br/>
 Docker link : https://hub.docker.com/repository/docker/835511144/todo_list_demo 🔗
-* Having an authentication structure will be considered a plus. ✔️
+* Having an authentication structure will be considered a plus. (JWT-AUTH) ✔️
 * Frontend development on API layer will be considered as a plus. React is used. ✔️ 
 
 
